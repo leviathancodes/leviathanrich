@@ -10,3 +10,5 @@ const words = {
 // The words will not be touching, but the space between them will not necessarily be even.
 // The design of it is mobile first.  It works on smartphones, iPads, and desktop monitors.
 // It is a full screen component.
+
+export default words;

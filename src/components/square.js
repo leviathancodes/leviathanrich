@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { ReactComponent as Levi } from './leviathanRich.svg';
 
 const SquareStyle = styled.div`
-  background: #A2C4C9 url(https://grainy-gradients.vercel.app/noise.svg);;
+  background: #A2C4C9;
   display: flex;
   width: 20%;
   justify-content: center;
